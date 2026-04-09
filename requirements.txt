@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+
+faiss-cpu
+
+langchain-groq
+langchain-huggingface
+langchain-google-genai
+
+streamlit
+
+wikipedia
+
+ddgs
+
+arxiv
