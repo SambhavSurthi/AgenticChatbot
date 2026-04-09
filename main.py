@@ -125,6 +125,8 @@ def get_thread_messages(thread_id: str):
     except Exception:
         return []
 
+st.title("Agentic Chatbot")
+st.text('Chatbot with access to tools')
 
 # --- DISPLAY EXISTING MESSAGES ---
 thread_messages = get_thread_messages(st.session_state.active_thread_id)
